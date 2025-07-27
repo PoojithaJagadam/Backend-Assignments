@@ -63,7 +63,7 @@ To run any of the JavaScript assignment files (`.js`) in this repository:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Poojithalagadami/Backend-Assignments.git
+    git clone https://github.com/PoojithaJagadam/Backend-Assignments.git
     ```
 
 2.  **Navigate into the repository directory:**
