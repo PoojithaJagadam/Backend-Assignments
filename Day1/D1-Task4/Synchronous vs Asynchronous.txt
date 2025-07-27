@@ -1,0 +1,9 @@
+/* Synchronous vs Asynchronous
+.   In 1-2 lines, give a real-world example where async is better than sync. */
+
+Real world examples of async better than sync are:
+
+1.Async lets a web server handle multiple requests at once; sync processes them one by one, causing delays.
+
+2.Real-Time Chat – Async delivers messages instantly (e.g., WhatsApp), but sync would delay responses.
+

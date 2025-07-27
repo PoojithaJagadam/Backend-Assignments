@@ -1,0 +1,9 @@
+/*Use ES6 import/export to structure code across two files:
+. In greet.js, create and export a function called greetUser(name) that returns "Hello, <name>!".
+. In main.js, import the function and print the greeting for your name. */
+
+import greetUser from './greet.js'
+const name = "Poojitha"
+console.log(greetUser(name));
+
+// output: Hello, Poojitha!
